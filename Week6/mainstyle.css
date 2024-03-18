@@ -1,3 +1,18 @@
+.pink{
+    color: pink;
+}
+p{
+    font-family: Helvetica; text-decoration: wavy;
+}
 span{
     background-color: blueviolet; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#bigger {
+    font-size: 30px;
+}
+#bigger2 {
+    font-size: 25px; color: brown; font-family: fantasy;
+}
+body{
+    background-image: url(newback.jpeg) ;
 }
