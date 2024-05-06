@@ -1,8 +1,0 @@
-# MART120Homework
-
-This is my repository for my creative coding class.
-
-When I started this project I started to follow a tutorial for an audio synthesizer since I didn’t have a clue about how to start it. I got a few minutes into the tutorial where I was able to link my song and make it start/stop when I clicked the canvas, but then after that, when I would try to run the code it would just say “loading” but never fully load. I then played around with maybe just making a moving set of rings to go along with a song instead of having a visual that was sunk to it but wasn’t satisfied once I did part of that project, and went back to figuring out the synthesizer. Then I messed around with the part of the tutorial I needed, which was to link the song to the visualizer, added the variables to the top of the code (var lgphoto, let song, and let fft), and looked at a few other tutorials until I could make the audio synthesizer work and load. After I finished the structure of it and had the bars that reacted to the music and the song playing I added a photo of Lady Gaga as the background and added a title and a bunch of stars for decoration since the song is Starstruck!
-
-I really like the final product. The way it looks fits the song well and I’m happy I could use some skills from past weeks like adding and placing shapes, adding text, and adding a photo background. I think it’s successful in what I intended it to do/be. The only failure is I would have preferred the synthesizer to be circular instead of along the bottom but I couldn’t figure out how to do it. The way it turned out along the bottom is probably better anyway for this composition with the background photo and the star than if it was a circle synthesizer, so overall I am satisfied! 
-
